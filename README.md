@@ -1,5 +1,5 @@
 # calculator-in-c-language
-This repository has code written in c programming language for performing certain math operations
+This repository has code written in c programming language for performing certain math operations in CLI
 * It has functions that performs operations like 
    * Addition
    * subtraction
